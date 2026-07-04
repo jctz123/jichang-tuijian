@@ -238,7 +238,7 @@
 > 开业时间：2021 年  
 > 节点地区：国内 IEPL / 海外中转  
 > 节点数量：节点数  
-> 协议：Shadowsocks / V2ray / Trojan  
+> 协议: Shadowsocks / V2ray / Trojan  
 > 设备限制：设备数  
 > 付款方式：支付宝 / 微信 / USDT  
 > TG 频道：点击加入  
