@@ -155,8 +155,8 @@
 
 | 套餐类型 | 流量 | 价格 | 支持设备 | 价格徽章 |
 | :--- | :--- | :--- | :--- | :--- |
-| **Trojan Lite** | 100 G | ￥99.00 RMB | 5 台设备限制 | 年付 https://img.shields.io/badge/价格-99-yellow |
-| **Trojan Pro** | 500 G | ￥499.00 RMB | 无设备限制 | 年付 https://img.shields.io/badge/价格-499-orange |
+| **Trojan Lite** | 100 G | ￥99.00 RMB | 5 台设备限制 | 年付 ![价格](https://img.shields.io/badge/价格-99-yellow) |
+| **Trojan Pro** | 500 G | ￥499.00 RMB | 无设备限制 | 年付 ![价格](https://img.shields.io/badge/价格-499-yellow)|
 
 <img width="2016" height="976" alt="一枝红杏加速器" src="https://github.com/user-attachments/assets/e477f6a2-931d-4173-94a7-c69a0e20b1ce" />
 
@@ -190,15 +190,15 @@
 
 #### 💰 套餐 & 价格
 
-| 套餐类型 | 流量 | 价格 | 支持设备 |
-| :--- | :--- | :--- | :--- |
-| **轻量套餐** | 100G | ¥ 18.00/月 | 不限制设备数量，请合理使用 |
-| **标准套餐** | 300G | ¥ 28.00/月 | 不限制设备数量，请合理使用 |
-| **高速套餐** | 600G | ¥ 50.00/月 | 设备不限并发许可 |
-| **200G流量包** | 200G | ¥ 79.00/一次性 | 设备不限并发许可 |
-| **700G流量包** | 700G | ¥ 188.00/一次性 | 不限制设备数量，请合理使用 |
-| **企业套餐** | 2T | ¥ 200.00/月 | 不限制设备数量，请合理使用 |
-| **1800G流量包** | 1800G | ¥ 550.00/一次性 | 不限制设备数量，请合理使用 |
+| 套餐类型 | 流量 | 价格 | 支持设备 | 价格徽章 |
+| :--- | :--- | :--- | :--- | :--- |
+| **轻量套餐** | 100G | ¥ 18.00/月 | 不限制设备数量，请合理使用 | ![价格](https://img.shields.io/badge/价格-18-yellow) |
+| **标准套餐** | 300G | ¥ 28.00/月 | 不限制设备数量，请合理使用 | ![价格](https://img.shields.io/badge/价格-28-orange) |
+| **高速套餐** | 600G | ¥ 50.00/月 | 设备不限并发许可 | ![价格](https://img.shields.io/badge/价格-50-red) |
+| **200G流量包** | 200G | ¥ 79.00/一次性 | 设备不限并发许可 | ![价格](https://img.shields.io/badge/价格-79-gray)  |
+| **700G流量包** | 700G | ¥ 188.00/一次性 | 不限制设备数量，请合理使用 | ![价格](https://img.shields.io/badge/价格-188-black) |
+| **企业套餐** | 2T | ¥ 200.00/月 | 不限制设备数量，请合理使用 | ![价格](https://img.shields.io/badge/价格-200-green)  |
+| **1800G流量包** | 1800G | ¥ 550.00/一次性 | 不限制设备数量，请合理使用 | ![价格](https://img.shields.io/badge/价格-550-white)  |
 
 <img width="2676" height="1562" alt="Cyberguard机场" src="https://github.com/user-attachments/assets/160ae003-820f-48c1-83ef-59b9d6298166" />
 
