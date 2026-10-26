@@ -52,9 +52,9 @@
 
 缺点也很直接：
 
-价格高  
-性价比看个人，日常轻度使用未必值  
-如果你对稳定性要求很高、预算也够，专线确实是最省心的选择。  
+- 价格高  
+- 性价比看个人，日常轻度使用未必值  
+- 如果你对稳定性要求很高、预算也够，专线确实是最省心的选择。  
 
 ### 线路类型(BGP/IEPL/IPLC)
 
@@ -155,8 +155,8 @@
 
 | 套餐类型 | 流量 | 价格 | 支持设备 | 价格徽章 |
 | :--- | :--- | :--- | :--- | :--- |
-| **Trojan Lite** | 100 G | ￥99.00 RMB | 5 台设备限制 | 年付 |
-| **Trojan Pro** | 500 G | ￥499.00 RMB | 无设备限制 | 年付 |
+| **Trojan Lite** | 100 G | ￥99.00 RMB | 5 台设备限制 | 年付 https://img.shields.io/badge/价格-99-yellow |
+| **Trojan Pro** | 500 G | ￥499.00 RMB | 无设备限制 | 年付 https://img.shields.io/badge/价格-499-orange |
 
 <img width="2016" height="976" alt="一枝红杏加速器" src="https://github.com/user-attachments/assets/e477f6a2-931d-4173-94a7-c69a0e20b1ce" />
 
