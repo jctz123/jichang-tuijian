@@ -241,14 +241,14 @@
 
 #### 💰 套餐 & 价格
 
-| 套餐类型 | 流量 | 价格 | 支持服务 (支持设备) |
-| :--- | :--- | :--- | :--- |
-| **肥猫年付加强版** | 60GB | ¥ 96 /年付 | 年付8折优惠；支持 Netflix、Hulu、Hbo、Disney+、Dazn 等流媒体及 ChatGPT、Claude 等 AI 工具 |
-| **BGP线路*基础套餐** | 120GB | ¥ 20 /月付 | 支持 Netflix、Hulu、Hbo、Disney+、Dazn 等流媒体及 ChatGPT、Claude 等 AI 工具 |
-| **BGP线路*标准套餐** | 300GB | ¥ 40 /月付 | 支持 Netflix、Hulu、Hbo、Disney+、Dazn 等流媒体及 ChatGPT、Claude 等 AI 工具 |
-| **BGP线路*旗舰套餐** | 700GB | ¥ 100 /月付 | 支持 Netflix、Hulu、Hbo、Disney+、Dazn 等流媒体及 ChatGPT、Claude 等 AI 工具 |
-| **BGP线路*企业套餐** | 1500GB | ¥ 180 /月付 | 支持 Netflix、Hulu、Hbo、Disney+、Dazn 等流媒体及 ChatGPT、Claude 等 AI 工具 |
-| **肥猫专享节点** | 500GB | ¥ 600 /月付 | 专线流量，独享带宽，独享IP |
+| 套餐类型 | 流量 | 价格 | 支持服务 (支持设备) | 价格徽章 |
+| :--- | :--- | :--- | :--- | :--- |
+| **肥猫年付加强版** | 60GB | ¥ 96 /年付 | 年付8折优惠；支持 Netflix、Hulu、Hbo、Disney+、Dazn 等流媒体及 ChatGPT、Claude 等 AI 工具 | ![价格](https://img.shields.io/badge/价格-96-yellow) |
+| **BGP线路*基础套餐** | 120GB | ¥ 20 /月付 | 支持 Netflix、Hulu、Hbo、Disney+、Dazn 等流媒体及 ChatGPT、Claude 等 AI 工具 | ![价格](https://img.shields.io/badge/价格-20-orange) |
+| **BGP线路*标准套餐** | 300GB | ¥ 40 /月付 | 支持 Netflix、Hulu、Hbo、Disney+、Dazn 等流媒体及 ChatGPT、Claude 等 AI 工具 | ![价格](https://img.shields.io/badge/价格-40-gray) |
+| **BGP线路*旗舰套餐** | 700GB | ¥ 100 /月付 | 支持 Netflix、Hulu、Hbo、Disney+、Dazn 等流媒体及 ChatGPT、Claude 等 AI 工具 | ![价格](https://img.shields.io/badge/价格-100-red) |
+| **BGP线路*企业套餐** | 1500GB | ¥ 180 /月付 | 支持 Netflix、Hulu、Hbo、Disney+、Dazn 等流媒体及 ChatGPT、Claude 等 AI 工具 | ![价格](https://img.shields.io/badge/价格-180-white) |
+| **肥猫专享节点** | 500GB | ¥ 600 /月付 | 专线流量，独享带宽，独享IP | ![价格](https://img.shields.io/badge/价格-600-green) |
 
 <img width="2816" height="1542" alt="肥猫云机场" src="https://github.com/user-attachments/assets/553ccd2a-584c-4d74-9a14-4131b0c762a6" />
 
